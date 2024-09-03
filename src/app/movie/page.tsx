@@ -1,3 +1,5 @@
+"use client"
+
 import MovieRow from "@components/MovieRow";
 import { movieDB } from "@lib/movieDB";
 
